@@ -1,4 +1,4 @@
-## Flickr-album-dl
+## Flickr Album Downloader
 
 ### Features
 - enables users to download entire albums from Flickr
